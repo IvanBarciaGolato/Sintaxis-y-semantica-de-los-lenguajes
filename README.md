@@ -1,4 +1,4 @@
-# Repositorio para trabajos individuales
+# Repositorio individual
 
 <ul>
   <li>Sintaxis y semántica de los Lenguajes </li>
